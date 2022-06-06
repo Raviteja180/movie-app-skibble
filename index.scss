@@ -1,0 +1,14 @@
+#movie-card{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 40px;
+    row-gap:40px;
+    // background-color: red;
+    padding: 50px;;
+}
+.mb-3{
+    width:80%;
+    margin:auto;
+    margin:30px auto;
+    
+}
